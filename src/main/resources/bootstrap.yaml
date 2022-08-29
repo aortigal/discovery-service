@@ -5,7 +5,7 @@ spring:
   cloud:
     config:
       username: root
-      password: s3cr3t
+      password: l$14V12GOKEf
       uri: http://host.docker.internal:8094
       retry:
         max-attempts: 3
